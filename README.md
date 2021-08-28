@@ -1,4 +1,4 @@
-- @tbm00
+@tbm00
 - Student at TXST University
 - Discord: forCashmoney#8891
 
