@@ -1,12 +1,17 @@
-
-
 <h1 align="center">Tanner McGee - @tbm00</h1>
+
 <p align="center">
-◼ Student at Texas State University
-<br>◼ Owner & Admin of https://mc64.wtf
-<br>
-&nbsp;
+◼ B.S. in Applied Mathematics and Computer Science
+<br>◼ Lead Software Engineer at https://mc64.wtf
 </p>
+
+---
+
+<p align="center">Hey! I recently graduated from Texas State University - San Marcos, where I majored in both Applied Mathematics and Computer Science. During my time there, I absorbed as much as I could about complex math and both high-level and low-level engineering. While I'm most comfortable with object-oriented programming and designing slick algorithms, I absolutely love creating solutions in low-level languages like MIPS.</p>
+<p align="center">Outside of class, I did, and continue to do, a LOT of Java programming. From helping a team at HP Inc. standardize inconsistent data to developing applications for Minecraft servers, I've not only refined my "coding" skills, but I've also learned to build solid software architecture that holds up during real-world usage.</p>
+<p align="center">If you’re looking for a problem-solver who’s always up for a challenge, send me a message—I'm always looking for opportunities!</p>
+
+---
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/>
